@@ -1,0 +1,81 @@
+* {
+    margin: auto;
+    padding: 0px;
+}
+
+.container {
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    -webkit-box-shadow: 10px 13px 128px -77px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 13px 128px -77px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 13px 128px -77px rgba(0, 0, 0, 0.75);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    margin: 108px 960px;
+    height: 395px;
+    padding: 43px 32px 53px 32px;
+}
+
+#email {
+    height: 49px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    width: 313px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#pass {
+    height: 49px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    width: 313px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+button {
+    width: 292px;
+    height: 41px;
+    margin-left: 12px;
+    border-radius: 3px;
+    border-radius: 9px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 16px;
+    margin: 13px;
+}
+
+.pass1 {
+    color: #1877f2;
+    text-align: center;
+}
+
+.acc {
+    background-color: #42b72a;
+    width: 160px;
+    margin-left: 80px;
+    border: none;
+}
+
+.cele {
+    padding: 18px 0px;
+    margin: 33px 0px;
+    width: 334px;
+}
+
+#para {
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 26px;
+}
+
+.side {
+    display: inline-block;
+    margin: -402px 38px 41px 47px
+}
